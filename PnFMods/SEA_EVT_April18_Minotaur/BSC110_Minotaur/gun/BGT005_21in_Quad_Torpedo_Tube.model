@@ -1,0 +1,9 @@
+<BGT005_21in_Quad_Torpedo_Tube.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/uk/gun/torpedo/BGT523_21in_Quad_Torpedo_Tube_Space/lods/BGT523_21in_Quad_Torpedo_Tube_Space_lod1	</parent>
+	<nodefullVisual>	content/gameplay/uk/gun/torpedo/BGT523_21in_Quad_Torpedo_Tube_Space/BGT523_21in_Quad_Torpedo_Tube_Space	</nodefullVisual>
+	<extent>	6.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGT005_21in_Quad_Torpedo_Tube.model>

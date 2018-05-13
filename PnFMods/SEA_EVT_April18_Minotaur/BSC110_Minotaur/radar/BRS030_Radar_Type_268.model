@@ -1,0 +1,19 @@
+<BRS030_Radar_Type_268.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	NC007_BRS030_Radar_Type_268	</animation>
+		<filler>	true	</filler>
+	</action>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_EVT_April18_Minotaur/BSC110_Minotaur/radar/BRS030_Radar_Type_268_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_EVT_April18_Minotaur/BSC110_Minotaur/radar/BRS030_Radar_Type_268	</nodefullVisual>
+	<extent>	2.0000	</extent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<animation>
+		<name>	NC007_BRS030_Radar_Type_268	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/NC007_BRS030_Radar_Type_268	</nodes>
+	</animation>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BRS030_Radar_Type_268.model>

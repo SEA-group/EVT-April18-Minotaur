@@ -1,0 +1,9 @@
+<BGA020_20mm_Oerlikon_MK_V_dead.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/uk/gun/aaircraft/BGA522_20mm_Oerlikon_MK_V_Space/lods/BGA522_20mm_Oerlikon_MK_V_Space_dead_lod1	</parent>
+	<nodefullVisual>	content/gameplay/uk/gun/aaircraft/BGA522_20mm_Oerlikon_MK_V_Space/BGA522_20mm_Oerlikon_MK_V_Space_dead	</nodefullVisual>
+	<extent>	2.0000	</extent>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGA020_20mm_Oerlikon_MK_V_dead.model>

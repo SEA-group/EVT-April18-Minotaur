@@ -1,0 +1,9 @@
+<BD031_MRS3_Director.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/uk/director/BD512_MRS3_Director_Space/lods/BD512_MRS3_Director_Space_lod1	</parent>
+	<nodefullVisual>	content/gameplay/uk/director/BD512_MRS3_Director_Space/BD512_MRS3_Director_Space	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BD031_MRS3_Director.model>

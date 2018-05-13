@@ -1,0 +1,9 @@
+<BSC017_Minotaur_1947_MidFront.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/uk/ship/cruiser/BSC019_Minotaur_Space_1947/lods/BSC019_Minotaur_Space_1947_MidFront_lod1	</parent>
+	<extent>	7.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/uk/ship/cruiser/BSC019_Minotaur_Space_1947/BSC019_Minotaur_Space_1947_MidFront	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BSC017_Minotaur_1947_MidFront.model>

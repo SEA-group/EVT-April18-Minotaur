@@ -1,0 +1,9 @@
+<BGM024_6in50_QF_Mk_V.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/uk/gun/main/BGM520_6in50_QF_Mk_V_Space/lods/BGM520_6in50_QF_Mk_V_Space_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/uk/gun/main/BGM520_6in50_QF_Mk_V_Space/BGM520_6in50_QF_Mk_V_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGM024_6in50_QF_Mk_V.model>

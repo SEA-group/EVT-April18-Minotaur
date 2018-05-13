@@ -1,0 +1,9 @@
+<BGA031_3in70_Mk6_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/uk/gun/aaircraft/BGA521_3in70_Mk6_Space/lods/BGA521_3in70_Mk6_Space_dead_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	content/gameplay/uk/gun/aaircraft/BGA521_3in70_Mk6_Space/BGA521_3in70_Mk6_Space_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGA031_3in70_Mk6_dead.model>
